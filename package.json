@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "stimulus": "^3.2.1",
+    "stimulus_reflex": "3.4.1"
+  }
+}
